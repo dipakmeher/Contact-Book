@@ -19,7 +19,7 @@
     </v-content>
   
     <v-footer app>
-      <span>&copy; 2019</span>
+      <span> Hare Krisha &copy; 2020</span>
     </v-footer>
   
   </v-app>
